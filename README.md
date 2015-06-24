@@ -27,7 +27,7 @@ The process I always take is one that looks like this:
 4. ```git commit -m "The sentence I want associated with this commit message"``` which tells my computer 'hey, next time code is pushed to github, take all of this code with it.
 5. ```git push origin master``` and MAGIC. My code is now on github.
 
-* If all goes well, check your github repository for your new code.
+* If all goes well, check your github repository for your new code!!!git
 
 
 ##Mini-Project 2: DevMountain Project
